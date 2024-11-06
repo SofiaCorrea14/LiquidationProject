@@ -8,8 +8,8 @@
 
 Los integrantes y colaboradores del proyecto son:
 
-- John Steven Ceballos Agudelo
-- Gustavo Mendez 
+- Emmanuel Calad
+- Sofia Correa
 
 ## **¿Qué es y para qué es?**
 
